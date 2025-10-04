@@ -51,6 +51,7 @@ Found Canada to have more past delinquencies and higher debt-to-income ratios.
 Delivered final insights through a PDF report summarizing borrower segmentation and default behaviors.
 ### Tools: 
 Excel,Power BI
+
 DAG
 
 
