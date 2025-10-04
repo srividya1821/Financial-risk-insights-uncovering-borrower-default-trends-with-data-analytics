@@ -55,6 +55,58 @@ Excel,Power BI
 DAG
 
 ![image_alt](https://github.com/srividya1821/Financial-risk-insights-uncovering-borrower-default-trends-with-data-analytics/blob/166c46311ecd8fab63d0f5e0003ee3048b40e3da/Credit_Risk_DAG.png)
+### Insights
+📊 Project Insights – Credit Risk Analysis
+
+Dataset Overview: Analyzed 32,574 borrowers across 3 countries, 9 states, and 18 cities.
+
+ #### Borrower Profile:
+
+Average income: $65.9K
+
+Average loan amount: $9.6K
+
+ #### Credit Ratios:
+
+Loan-to-Income ratio: 0.17
+
+Debt-to-Income ratio: 0.35
+
+Credit Utilization ratio: 0.50
+
+Average credit history length: 5.8 years
+
+#### Default Risks:
+
+Higher default probability among single borrowers.
+
+Debt Consolidation and Education loans showed the highest default rates.
+
+Borrowers with shorter credit history are more prone to default.
+
+#### Country Comparison:
+
+UK borrowers are riskiest with highest loan-to-income and credit utilization ratios.
+
+Canada shows highest past delinquencies and debt-to-income ratio.
+
+US borrowers show comparatively lower default risk.
+
+#### Risk Segmentation:
+
+555 high-risk acts vs. 153 low-risk acts.
+
+Younger borrowers make up 94% of the dataset, with higher need for monitoring.
+
+#### Loan Outcomes:
+
+Default rate jumps from 14% (no past defaults) to 30.5% (with past defaults).
+
+Strong link between poor credit history and higher probability of default.
+
+#### Employment Factor:
+
+Majority of borrowers are full-time employed (60%), but part-time and unemployed groups show higher risk tendencies.
 
 
 
