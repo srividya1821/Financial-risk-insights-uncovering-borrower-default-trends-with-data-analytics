@@ -54,5 +54,7 @@ Excel,Power BI
 
 DAG
 
+![image_alt](https://github.com/srividya1821/Financial-risk-insights-uncovering-borrower-default-trends-with-data-analytics/blob/166c46311ecd8fab63d0f5e0003ee3048b40e3da/Credit_Risk_DAG.png)
+
 
 
